@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaprDataSender</string>
+    <string name="greetings">Press button below to start sending data</string>
+    <string name="button_connect">Connect</string>
+</resources>
